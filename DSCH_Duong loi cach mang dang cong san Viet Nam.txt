@@ -1,0 +1,239 @@
+34
+6988
+Bao doi song cong nhan la to chuc nao?
+asdfasf
+sdafasdf
+Tong lien doan lao dong Phap
+adfasdf
+C
+2333
+Nhung giai cap bi tri o Viet Nam duoi che do thuoc dia cua de quoc Phap la?
+Cong nhan va nong dan
+Cong nhan, nong dan va tieu tu san
+Cong nhan, nong dan, tieu tu san va tu san dan toc
+Cong nhan, nong dan, tieu tu san, tu san dan toc, dia chu vua va nho
+D
+413
+Nha nuoc ta hien nay co may Dang lanh dao?
+4
+3
+2
+1
+D
+279
+Quan doi nuoc ta hien nay duoc the gioi xep thu may ve do hung manh?
+12
+10
+14
+13
+B
+570
+Noi co quyen han cao nhat cua dat nuoc ta?
+Quoc hoi
+Bo tu phap toi cao
+Nha nuoc
+Bo Chinh Tri
+A
+1004
+Ai la nguoi da ra di tim duong cuu nuoc, la vi anh hung cua dan toc ta?
+Nguyen Ai Quoc
+Nguyen Trai
+Le Loi
+kkkkk
+A
+6224
+Truoc chien tranh the gioi thu nhat, o VN co nhung giai cap nao?
+asdfasd
+sdaf
+Dia chu phong kien, nong dan va cong nhan
+sdafdasf
+C
+2915
+Dac diem ra doi cua giai cap cong nhan o Viet Nam nhu the nao? Duoi che do cua thuc dan phong kien, giai cap cong nhan Viet Nam co nhung yeu cau?
+Ra doi truoc giai cap tu san, trong cuoc khai thac thuoc dia lan thu nhat cua thuc dan Phap
+sdafsadfa
+sadfsadf
+asdfasdf
+A
+3061
+Nguyen Ai Quoc lua chon con duong giai phong dan toc theo khuynh huong chinh tri vo san vao thoi gian nao?
+1917
+1918
+1919
+1920
+D
+6606
+Nhung yeu cau buc thiet cua giai cap nong dan Vn duoi thoi phong kien?
+Doc lap dan toc
+Rdsfsaf
+dsaf
+dasf
+A
+6404
+Mau thuan co ban chu yeu co VN dau the ki XX la gi?
+adsafas
+sadf
+asdfasf
+Mau thuan giua VN va de quoc xam luoc va tay sai cua chung
+D
+6763
+Khi nao phong trao cong dan o Vn hoan toan tro thanh phong trao tu giac?
+dasf
+dasfadsf
+asdf
+Nam 1930 (Dang cong san VN ra doi)
+D
+8040
+To chuc cong san nao ra doi dau tien o VN?
+adfsasdf
+Dong duong cong san Dang
+dasfa
+sddsaf
+B
+7586
+Nguyen Ai Quoc tu Lien Xo ve Quang Chau khi nao?
+asdf
+afd
+Cuoi 1928 dau 1929
+asdfasdf
+C
+7253
+Nguyen Ai Quoc doc So thao lan thu 1 Luan cuong ve van de dan toc, thuoc dia khi nao?
+dsfadsf
+7/1920
+adfasdf
+sdafa
+B
+7145
+Hoi lien hiep thuoc dia duoc thanh lap vao nam nao?
+1920
+1921
+1923
+1924
+B
+7458
+Phong trao doi tra tu do cua Phan Boi Chau soi noi vao nam nao?
+dasfasdf
+1925
+sdfa
+asdf
+B
+7837
+Ai la nguoi sang lap Viet Nam Quoc dan Dang 1927?
+adsf
+asdf
+Pham Tuan Tai
+sdafdasf
+C
+7720
+Viet Nam Quoc dan dang duoc thanh lap vao thoi gian nao?
+12/1927
+dsafadsf
+asdf
+sdaf
+A
+7951
+Khoi nghia Yen Bai no ra vao thoi gian nao?
+9/2/1930
+dsaf
+adsfasdf
+dasf
+A
+15644
+Cuong linh dau tien cua Dang da xac dinh muc tieu chien luoc cua cach mang Viet Nam la gi?
+Lam tu san dan quyen cach mang va tho dia cach mang de di toi xa hoi cong san.
+Xay dung xa hoi nuoc Viet Nam dan giau nuoc manh xa hoi cong bang, dan chu va van minh.
+Cach mang tu san dan quyen - phan de va dien dia - lap chinh quyen cua cong nong bang hinh thuc Xo Viet, de du bi dieu kien di toi CMXHCN sd
+Ca a va b
+A
+21715
+Bac Ho ra di tim duong cuu o noi nao?
+Ben nha rong 
+dsafdsaf
+adsfsad
+fdsaffdsa
+A
+30007
+Nuoc ta hien tai co bao nhieu tinh thanh?
+52
+53
+62
+64
+D
+29883
+Dang cong san Viet Nam thanh lap vao nam nao?
+1930
+1931
+1932
+1933
+A
+30206
+Quang Trung dai pha 32 van quan thanh o dau?
+Dong Da, Ha Noi
+jdhfh
+sdhfush
+hfjhsdf
+A
+31758
+Vu khi nao co suc pha huy manh nhat trong 4 loai duoi day?
+Bom TNT
+Bom nguyen tu
+Bom Khinh Khi
+Bom R
+C
+30980
+Dinh Bo Linh dep loan bao nhieu su than?
+11
+12
+10
+9
+B
+30765
+Quang Trung va Nguyen Hue c¢ quan he gi voi nhau?
+Khong co quan he
+Anh em 
+Ho hang 
+la mot nguoi do may ma
+D
+30631
+Quan thanh co bao nhieu quan khi tran vao nuoc ta?
+23 van
+32 van
+41 van
+15 van
+B
+31228
+Dien Bien Phu tren khong mot tran noi danh khien toan the gioi tran dong, mang theo vu khi l… mot loai may bay co tinh cong pha manh nhat thoi day, do la loai may bay nao sau day
+B54
+N15
+B52
+N17
+C
+31091
+Hiep dinh gienever duoc ki ket vao nam?
+1954
+1945
+1963
+1975
+A
+31526
+Loai vu khi duoc My tha xuong hai thanh pho lon cua Nhat Ban co ten la:
+Bom khinh Khi
+Bom trum
+Bom nguyen tu
+Bom Hoa Hong
+C
+32345
+Dat nuoc ta danh lai hoa binh vao nam nao?
+1972
+1975
+1973
+1963
+B
+32479
+My da dung tong cong may chien thuat dac biet de danh voi ta?
+1
+2
+3
+4
+D

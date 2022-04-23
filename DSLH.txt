@@ -1,0 +1,7 @@
+6
+D18CQCN03-N/Cong nghe thong tin 3
+D18CQCN01-N/Cong nghe thong tin 1
+D18CQCN02-N/Cong nghe thong tin 2
+D18CQAT01-N/An toan thong tin 1
+D18CQAT02-N/An toan thong tin 2
+D18CQVT02-N/Vien thong 2
